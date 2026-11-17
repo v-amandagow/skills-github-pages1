@@ -1,3 +1,4 @@
 ---
-title: Welcome to my blog!
+title: Welcome to Currently Between Books!
 ---
+This is a space for book lovers 
